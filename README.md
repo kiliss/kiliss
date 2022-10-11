@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋,yo soy Fabricio Cuevas</h1>
 <h3 align="center">Full stack developer de Córdoba, Argentina 
 
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 - 👯 Puedes mirar mi trabajo en equipo en [PFRestaurante](https://github.com/kiliss/PF)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://kiliss.github.io/](https://kiliss.github.io/)
