@@ -2,19 +2,15 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 <h1 align="center">Hola 👋,yo soy Fabricio Cuevas</h1>
-<h3 align="center">Full stack developer de Córdoba, Argentina 
+<h3 align="center">SSR FrontEnd de Córdoba, Argentina 
 
-- 👯 Puedes mirar mi trabajo en equipo en [PFRestaurante](https://github.com/kiliss/PF)
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://kiliss.github.io/](https://kiliss.github.io/)
-
-- 💬 Pregúntame por **React, Express**
+- 💬 Pregúntame por **React, Express, Angular**
 
 - 📫 Contacto **fabigus14@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fabriciocuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriciocuevas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fabricio-cuevas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabriciocuevas" height="30" width="40" /></a>
 </p>
 <div>
     <h3 align="left">Algunas capturas de mis proyectos:</h3>
